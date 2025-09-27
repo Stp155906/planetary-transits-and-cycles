@@ -26,6 +26,13 @@ jobs:
       - name: Generate weekly payload
         run: python generate_weekly_transits_cycles_payload.py
 
+      - name: Ensure file exists (hard fail if missing)
+        run: |
+          test -f weekly_payload.json || { echo "weekly_payload.json not created"; exit 1; }
+
+      - name: Preview first 80 lines
+        run: head -n 80 weekly_payload.json || true
+
       - name: Commit & push weekly_payload.json (if changed)
         run: |
           git config user.name "github-actions[bot]"
