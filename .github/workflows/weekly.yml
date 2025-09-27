@@ -1,0 +1,39 @@
+name: Weekly Transits & Cycles Payload
+
+on:
+  schedule:
+    - cron: "0 6 * * 1"   # Mondays 06:00 UTC
+  workflow_dispatch: {}   # allow manual runs
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      # If you later add deps, add requirements.txt and uncomment:
+      # - run: pip install -r requirements.txt
+
+      - name: Generate weekly payload
+        run: python generate_weekly_transits_cycles_payload.py
+
+      - name: Commit & push weekly_payload.json (if changed)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if ! git diff --quiet -- weekly_payload.json; then
+            git add weekly_payload.json
+            git commit -m "Update weekly_payload.json"
+            git push
+          else
+            echo "No changes in weekly_payload.json — skipping commit."
+          fi

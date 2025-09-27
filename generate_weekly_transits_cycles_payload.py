@@ -310,9 +310,8 @@ weekly_payload = {
     "orbital_cycles": orbital_cycles
 }
 
-# save to file (so you can download or commit via GitHub Actions)
-out_path = "/content/weekly_payload.json"
-with open(out_path, "w") as f:
+# Save to repo root so GitHub Actions can commit it
+with open("weekly_payload.json", "w") as f:
     json.dump(weekly_payload, f, indent=2)
 
-print(f"✅ Saved weekly payload to {out_path}")
+print("✅ Saved weekly_payload.json")
