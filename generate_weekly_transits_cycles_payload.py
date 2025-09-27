@@ -311,6 +311,7 @@ weekly_payload = {
 }
 
 # Save to repo root so GitHub Actions can commit it
+import json
 with open("weekly_payload.json", "w") as f:
     json.dump(weekly_payload, f, indent=2)
 
