@@ -14,6 +14,9 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0            # ensure we can commit back
+          persist-credentials: true # use GITHUB_TOKEN
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -24,23 +27,28 @@ jobs:
       # - run: pip install -r requirements.txt
 
       - name: Generate weekly payload
-        run: python generate_weekly_transits_cycles_payload.py
+        run: python -u generate_weekly_transits_cycles_payload.py
 
       - name: Ensure file exists (hard fail if missing)
         run: |
+          pwd
+          ls -la
           test -f weekly_payload.json || { echo "weekly_payload.json not created"; exit 1; }
 
       - name: Preview first 80 lines
         run: head -n 80 weekly_payload.json || true
 
-      - name: Commit & push weekly_payload.json (if changed)
+      - name: Show git state
+        run: |
+          git status --porcelain
+          echo "Git ref name: ${{ github.ref_name }}"
+          git rev-parse --abbrev-ref HEAD
+
+      - name: Commit & push weekly_payload.json (always try)
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          if ! git diff --quiet -- weekly_payload.json; then
-            git add weekly_payload.json
-            git commit -m "Update weekly_payload.json"
-            git push
-          else
-            echo "No changes in weekly_payload.json — skipping commit."
-          fi
+          git add -A
+          git status --porcelain
+          git commit -m "Update weekly_payload.json" || echo "Nothing to commit"
+          git push origin HEAD:${{ github.ref_name }} || echo "Nothing to push"
