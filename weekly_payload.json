@@ -1,1663 +1,13 @@
 {
-  "week_start": "2025-11-03",
-  "week_end": "2025-11-09",
+  "week_start": "2025-11-10",
+  "week_end": "2025-11-16",
   "days": {
-    "2025-11-03": {
+    "2025-11-10": {
       "Sun": {
         "transit": {
-          "label": "11/30 days",
+          "label": "18/30 days",
           "unit": "days",
-          "index": 11,
-          "total": 30,
-          "meta": {
-            "sign": "Scorpio",
-            "approximate": false
-          }
-        },
-        "synodic": {
-          "label": null,
-          "unit": "days",
-          "index": 0,
-          "total": 0,
-          "meta": {
-            "approximate": true
-          }
-        },
-        "sidereal": {
-          "label": "0.8/1.0 years",
-          "unit": "years",
-          "index": 0.8,
-          "total": 1.0,
-          "meta": {
-            "total_days": 365.256,
-            "approximate": true
-          }
-        }
-      },
-      "Moon": {
-        "transit": {
-          "label": "1/2 days",
-          "unit": "days",
-          "index": 1,
-          "total": 2,
-          "meta": {
-            "sign": "Aries",
-            "approximate": false
-          }
-        },
-        "synodic": {
-          "label": "12/30 days",
-          "unit": "days",
-          "index": 12,
-          "total": 30,
-          "meta": {
-            "anchor": "conjunction",
-            "anchor_date": "2025-10-22",
-            "approximate": false
-          }
-        },
-        "sidereal": {
-          "label": "9/27 days",
-          "unit": "days",
-          "index": 9,
-          "total": 27,
-          "meta": {
-            "total_days": 27.32166,
-            "approximate": true
-          }
-        }
-      },
-      "Mercury": {
-        "transit": {
-          "label": "5/21 days",
-          "unit": "days",
-          "index": 5,
-          "total": 21,
-          "meta": {
-            "sign": "Sagittarius",
-            "approximate": false
-          }
-        },
-        "synodic": {
-          "label": "0/116 days",
-          "unit": "days",
-          "index": 0,
-          "total": 116,
-          "meta": {
-            "anchor": "conjunction",
-            "anchor_date": "2025-11-03",
-            "approximate": false
-          }
-        },
-        "sidereal": {
-          "label": "42/88 days",
-          "unit": "days",
-          "index": 42,
-          "total": 88,
-          "meta": {
-            "total_days": 87.969,
-            "approximate": true
-          }
-        }
-      },
-      "Venus": {
-        "transit": {
-          "label": "21/24 days",
-          "unit": "days",
-          "index": 21,
-          "total": 24,
-          "meta": {
-            "sign": "Libra",
-            "approximate": false
-          }
-        },
-        "synodic": {
-          "label": "0/584 days",
-          "unit": "days",
-          "index": 0,
-          "total": 584,
-          "meta": {
-            "anchor": "conjunction",
-            "anchor_date": "2025-11-03",
-            "approximate": false
-          }
-        },
-        "sidereal": {
-          "label": "81/225 days",
-          "unit": "days",
-          "index": 81,
-          "total": 225,
-          "meta": {
-            "total_days": 224.701,
-            "approximate": true
-          }
-        }
-      },
-      "Mars": {
-        "transit": {
-          "label": "42/43 days",
-          "unit": "days",
-          "index": 42,
-          "total": 43,
-          "meta": {
-            "sign": "Scorpio",
-            "approximate": false
-          }
-        },
-        "synodic": {
-          "label": "291/780 days",
-          "unit": "days",
-          "index": 291,
-          "total": 780,
-          "meta": {
-            "anchor": "opposition",
-            "anchor_date": "2025-01-16",
-            "approximate": false
-          }
-        },
-        "sidereal": {
-          "label": "0.8/1.9 years",
-          "unit": "years",
-          "index": 0.8,
-          "total": 1.9,
-          "meta": {
-            "total_days": 686.98,
-            "approximate": true
-          }
-        }
-      },
-      "Jupiter": {
-        "transit": {
-          "label": "147/205 days",
-          "unit": "days",
-          "index": 147,
-          "total": 205,
-          "meta": {
-            "sign": "Cancer",
-            "approximate": true
-          }
-        },
-        "synodic": {
-          "label": "0/399 days",
-          "unit": "days",
-          "index": 0,
-          "total": 399,
-          "meta": {
-            "anchor": "opposition",
-            "anchor_date": "2025-11-03",
-            "approximate": false
-          }
-        },
-        "sidereal": {
-          "label": "0.8/11.9 years",
-          "unit": "years",
-          "index": 0.8,
-          "total": 11.9,
-          "meta": {
-            "total_days": 4332.589,
-            "approximate": true
-          }
-        }
-      },
-      "Saturn": {
-        "transit": {
-          "label": "63/121 days",
-          "unit": "days",
-          "index": 63,
-          "total": 121,
-          "meta": {
-            "sign": "Pisces",
-            "approximate": true
-          }
-        },
-        "synodic": {
-          "label": "43/378 days",
-          "unit": "days",
-          "index": 43,
-          "total": 378,
-          "meta": {
-            "anchor": "opposition",
-            "anchor_date": "2025-09-21",
-            "approximate": false
-          }
-        },
-        "sidereal": {
-          "label": "0.8/29.5 years",
-          "unit": "years",
-          "index": 0.8,
-          "total": 29.5,
-          "meta": {
-            "total_days": 10759.22,
-            "approximate": true
-          }
-        }
-      },
-      "Uranus": {
-        "transit": {
-          "label": "119/124 days",
-          "unit": "days",
-          "index": 119,
-          "total": 124,
-          "meta": {
-            "sign": "Gemini",
-            "approximate": false
-          }
-        },
-        "synodic": {
-          "label": "0/370 days",
-          "unit": "days",
-          "index": 0,
-          "total": 370,
-          "meta": {
-            "anchor": "opposition",
-            "anchor_date": "2025-11-03",
-            "approximate": false
-          }
-        },
-        "sidereal": {
-          "label": "0.8/84.0 years",
-          "unit": "years",
-          "index": 0.8,
-          "total": 84.0,
-          "meta": {
-            "total_days": 30685.4,
-            "approximate": true
-          }
-        }
-      },
-      "Neptune": {
-        "transit": {
-          "label": "12/70 days",
-          "unit": "days",
-          "index": 12,
-          "total": 70,
-          "meta": {
-            "sign": "Pisces",
-            "approximate": true
-          }
-        },
-        "synodic": {
-          "label": "40/367 days",
-          "unit": "days",
-          "index": 40,
-          "total": 367,
-          "meta": {
-            "anchor": "opposition",
-            "anchor_date": "2025-09-24",
-            "approximate": false
-          }
-        },
-        "sidereal": {
-          "label": "0.8/164.8 years",
-          "unit": "years",
-          "index": 0.8,
-          "total": 164.8,
-          "meta": {
-            "total_days": 60189.0,
-            "approximate": true
-          }
-        }
-      },
-      "Pluto": {
-        "transit": {
-          "label": "307/365 days",
-          "unit": "days",
-          "index": 307,
-          "total": 365,
-          "meta": {
-            "sign": "Aquarius",
-            "approximate": true
-          }
-        },
-        "synodic": {
-          "label": "101/367 days",
-          "unit": "days",
-          "index": 101,
-          "total": 367,
-          "meta": {
-            "anchor": "opposition",
-            "anchor_date": "2025-07-25",
-            "approximate": false
-          }
-        },
-        "sidereal": {
-          "label": "0.8/247.9 years",
-          "unit": "years",
-          "index": 0.8,
-          "total": 247.9,
-          "meta": {
-            "total_days": 90560.0,
-            "approximate": true
-          }
-        }
-      }
-    },
-    "2025-11-04": {
-      "Sun": {
-        "transit": {
-          "label": "12/30 days",
-          "unit": "days",
-          "index": 12,
-          "total": 30,
-          "meta": {
-            "sign": "Scorpio",
-            "approximate": false
-          }
-        },
-        "synodic": {
-          "label": null,
-          "unit": "days",
-          "index": 0,
-          "total": 0,
-          "meta": {
-            "approximate": true
-          }
-        },
-        "sidereal": {
-          "label": "0.8/1.0 years",
-          "unit": "years",
-          "index": 0.8,
-          "total": 1.0,
-          "meta": {
-            "total_days": 365.256,
-            "approximate": true
-          }
-        }
-      },
-      "Moon": {
-        "transit": {
-          "label": "2/2 days",
-          "unit": "days",
-          "index": 2,
-          "total": 2,
-          "meta": {
-            "sign": "Aries",
-            "approximate": false
-          }
-        },
-        "synodic": {
-          "label": "13/30 days",
-          "unit": "days",
-          "index": 13,
-          "total": 30,
-          "meta": {
-            "anchor": "conjunction",
-            "anchor_date": "2025-10-22",
-            "approximate": false
-          }
-        },
-        "sidereal": {
-          "label": "10/27 days",
-          "unit": "days",
-          "index": 10,
-          "total": 27,
-          "meta": {
-            "total_days": 27.32166,
-            "approximate": true
-          }
-        }
-      },
-      "Mercury": {
-        "transit": {
-          "label": "6/21 days",
-          "unit": "days",
-          "index": 6,
-          "total": 21,
-          "meta": {
-            "sign": "Sagittarius",
-            "approximate": false
-          }
-        },
-        "synodic": {
-          "label": "0/116 days",
-          "unit": "days",
-          "index": 0,
-          "total": 116,
-          "meta": {
-            "anchor": "conjunction",
-            "anchor_date": "2025-11-04",
-            "approximate": false
-          }
-        },
-        "sidereal": {
-          "label": "43/88 days",
-          "unit": "days",
-          "index": 43,
-          "total": 88,
-          "meta": {
-            "total_days": 87.969,
-            "approximate": true
-          }
-        }
-      },
-      "Venus": {
-        "transit": {
-          "label": "22/24 days",
-          "unit": "days",
-          "index": 22,
-          "total": 24,
-          "meta": {
-            "sign": "Libra",
-            "approximate": false
-          }
-        },
-        "synodic": {
-          "label": "0/584 days",
-          "unit": "days",
-          "index": 0,
-          "total": 584,
-          "meta": {
-            "anchor": "conjunction",
-            "anchor_date": "2025-11-04",
-            "approximate": false
-          }
-        },
-        "sidereal": {
-          "label": "82/225 days",
-          "unit": "days",
-          "index": 82,
-          "total": 225,
-          "meta": {
-            "total_days": 224.701,
-            "approximate": true
-          }
-        }
-      },
-      "Mars": {
-        "transit": {
-          "label": "43/43 days",
-          "unit": "days",
-          "index": 43,
-          "total": 43,
-          "meta": {
-            "sign": "Scorpio",
-            "approximate": false
-          }
-        },
-        "synodic": {
-          "label": "292/780 days",
-          "unit": "days",
-          "index": 292,
-          "total": 780,
-          "meta": {
-            "anchor": "opposition",
-            "anchor_date": "2025-01-16",
-            "approximate": false
-          }
-        },
-        "sidereal": {
-          "label": "0.8/1.9 years",
-          "unit": "years",
-          "index": 0.8,
-          "total": 1.9,
-          "meta": {
-            "total_days": 686.98,
-            "approximate": true
-          }
-        }
-      },
-      "Jupiter": {
-        "transit": {
-          "label": "148/205 days",
-          "unit": "days",
-          "index": 148,
-          "total": 205,
-          "meta": {
-            "sign": "Cancer",
-            "approximate": true
-          }
-        },
-        "synodic": {
-          "label": "0/399 days",
-          "unit": "days",
-          "index": 0,
-          "total": 399,
-          "meta": {
-            "anchor": "opposition",
-            "anchor_date": "2025-11-04",
-            "approximate": false
-          }
-        },
-        "sidereal": {
-          "label": "0.8/11.9 years",
-          "unit": "years",
-          "index": 0.8,
-          "total": 11.9,
-          "meta": {
-            "total_days": 4332.589,
-            "approximate": true
-          }
-        }
-      },
-      "Saturn": {
-        "transit": {
-          "label": "64/121 days",
-          "unit": "days",
-          "index": 64,
-          "total": 121,
-          "meta": {
-            "sign": "Pisces",
-            "approximate": true
-          }
-        },
-        "synodic": {
-          "label": "44/378 days",
-          "unit": "days",
-          "index": 44,
-          "total": 378,
-          "meta": {
-            "anchor": "opposition",
-            "anchor_date": "2025-09-21",
-            "approximate": false
-          }
-        },
-        "sidereal": {
-          "label": "0.8/29.5 years",
-          "unit": "years",
-          "index": 0.8,
-          "total": 29.5,
-          "meta": {
-            "total_days": 10759.22,
-            "approximate": true
-          }
-        }
-      },
-      "Uranus": {
-        "transit": {
-          "label": "120/124 days",
-          "unit": "days",
-          "index": 120,
-          "total": 124,
-          "meta": {
-            "sign": "Gemini",
-            "approximate": false
-          }
-        },
-        "synodic": {
-          "label": "0/370 days",
-          "unit": "days",
-          "index": 0,
-          "total": 370,
-          "meta": {
-            "anchor": "opposition",
-            "anchor_date": "2025-11-04",
-            "approximate": false
-          }
-        },
-        "sidereal": {
-          "label": "0.8/84.0 years",
-          "unit": "years",
-          "index": 0.8,
-          "total": 84.0,
-          "meta": {
-            "total_days": 30685.4,
-            "approximate": true
-          }
-        }
-      },
-      "Neptune": {
-        "transit": {
-          "label": "13/70 days",
-          "unit": "days",
-          "index": 13,
-          "total": 70,
-          "meta": {
-            "sign": "Pisces",
-            "approximate": true
-          }
-        },
-        "synodic": {
-          "label": "41/367 days",
-          "unit": "days",
-          "index": 41,
-          "total": 367,
-          "meta": {
-            "anchor": "opposition",
-            "anchor_date": "2025-09-24",
-            "approximate": false
-          }
-        },
-        "sidereal": {
-          "label": "0.8/164.8 years",
-          "unit": "years",
-          "index": 0.8,
-          "total": 164.8,
-          "meta": {
-            "total_days": 60189.0,
-            "approximate": true
-          }
-        }
-      },
-      "Pluto": {
-        "transit": {
-          "label": "308/365 days",
-          "unit": "days",
-          "index": 308,
-          "total": 365,
-          "meta": {
-            "sign": "Aquarius",
-            "approximate": true
-          }
-        },
-        "synodic": {
-          "label": "102/367 days",
-          "unit": "days",
-          "index": 102,
-          "total": 367,
-          "meta": {
-            "anchor": "opposition",
-            "anchor_date": "2025-07-25",
-            "approximate": false
-          }
-        },
-        "sidereal": {
-          "label": "0.8/247.9 years",
-          "unit": "years",
-          "index": 0.8,
-          "total": 247.9,
-          "meta": {
-            "total_days": 90560.0,
-            "approximate": true
-          }
-        }
-      }
-    },
-    "2025-11-05": {
-      "Sun": {
-        "transit": {
-          "label": "13/30 days",
-          "unit": "days",
-          "index": 13,
-          "total": 30,
-          "meta": {
-            "sign": "Scorpio",
-            "approximate": false
-          }
-        },
-        "synodic": {
-          "label": null,
-          "unit": "days",
-          "index": 0,
-          "total": 0,
-          "meta": {
-            "approximate": true
-          }
-        },
-        "sidereal": {
-          "label": "0.8/1.0 years",
-          "unit": "years",
-          "index": 0.8,
-          "total": 1.0,
-          "meta": {
-            "total_days": 365.256,
-            "approximate": true
-          }
-        }
-      },
-      "Moon": {
-        "transit": {
-          "label": "1/2 days",
-          "unit": "days",
-          "index": 1,
-          "total": 2,
-          "meta": {
-            "sign": "Taurus",
-            "approximate": false
-          }
-        },
-        "synodic": {
-          "label": "14/30 days",
-          "unit": "days",
-          "index": 14,
-          "total": 30,
-          "meta": {
-            "anchor": "conjunction",
-            "anchor_date": "2025-10-22",
-            "approximate": false
-          }
-        },
-        "sidereal": {
-          "label": "11/27 days",
-          "unit": "days",
-          "index": 11,
-          "total": 27,
-          "meta": {
-            "total_days": 27.32166,
-            "approximate": true
-          }
-        }
-      },
-      "Mercury": {
-        "transit": {
-          "label": "7/21 days",
-          "unit": "days",
-          "index": 7,
-          "total": 21,
-          "meta": {
-            "sign": "Sagittarius",
-            "approximate": false
-          }
-        },
-        "synodic": {
-          "label": "0/116 days",
-          "unit": "days",
-          "index": 0,
-          "total": 116,
-          "meta": {
-            "anchor": "conjunction",
-            "anchor_date": "2025-11-05",
-            "approximate": false
-          }
-        },
-        "sidereal": {
-          "label": "44/88 days",
-          "unit": "days",
-          "index": 44,
-          "total": 88,
-          "meta": {
-            "total_days": 87.969,
-            "approximate": true
-          }
-        }
-      },
-      "Venus": {
-        "transit": {
-          "label": "23/24 days",
-          "unit": "days",
-          "index": 23,
-          "total": 24,
-          "meta": {
-            "sign": "Libra",
-            "approximate": false
-          }
-        },
-        "synodic": {
-          "label": "0/584 days",
-          "unit": "days",
-          "index": 0,
-          "total": 584,
-          "meta": {
-            "anchor": "conjunction",
-            "anchor_date": "2025-11-05",
-            "approximate": false
-          }
-        },
-        "sidereal": {
-          "label": "83/225 days",
-          "unit": "days",
-          "index": 83,
-          "total": 225,
-          "meta": {
-            "total_days": 224.701,
-            "approximate": true
-          }
-        }
-      },
-      "Mars": {
-        "transit": {
-          "label": "1/41 days",
-          "unit": "days",
-          "index": 1,
-          "total": 41,
-          "meta": {
-            "sign": "Sagittarius",
-            "approximate": false
-          }
-        },
-        "synodic": {
-          "label": "293/780 days",
-          "unit": "days",
-          "index": 293,
-          "total": 780,
-          "meta": {
-            "anchor": "opposition",
-            "anchor_date": "2025-01-16",
-            "approximate": false
-          }
-        },
-        "sidereal": {
-          "label": "0.8/1.9 years",
-          "unit": "years",
-          "index": 0.8,
-          "total": 1.9,
-          "meta": {
-            "total_days": 686.98,
-            "approximate": true
-          }
-        }
-      },
-      "Jupiter": {
-        "transit": {
-          "label": "149/205 days",
-          "unit": "days",
-          "index": 149,
-          "total": 205,
-          "meta": {
-            "sign": "Cancer",
-            "approximate": true
-          }
-        },
-        "synodic": {
-          "label": "0/399 days",
-          "unit": "days",
-          "index": 0,
-          "total": 399,
-          "meta": {
-            "anchor": "opposition",
-            "anchor_date": "2025-11-05",
-            "approximate": false
-          }
-        },
-        "sidereal": {
-          "label": "0.8/11.9 years",
-          "unit": "years",
-          "index": 0.8,
-          "total": 11.9,
-          "meta": {
-            "total_days": 4332.589,
-            "approximate": true
-          }
-        }
-      },
-      "Saturn": {
-        "transit": {
-          "label": "65/121 days",
-          "unit": "days",
-          "index": 65,
-          "total": 121,
-          "meta": {
-            "sign": "Pisces",
-            "approximate": true
-          }
-        },
-        "synodic": {
-          "label": "45/378 days",
-          "unit": "days",
-          "index": 45,
-          "total": 378,
-          "meta": {
-            "anchor": "opposition",
-            "anchor_date": "2025-09-21",
-            "approximate": false
-          }
-        },
-        "sidereal": {
-          "label": "0.8/29.5 years",
-          "unit": "years",
-          "index": 0.8,
-          "total": 29.5,
-          "meta": {
-            "total_days": 10759.22,
-            "approximate": true
-          }
-        }
-      },
-      "Uranus": {
-        "transit": {
-          "label": "121/124 days",
-          "unit": "days",
-          "index": 121,
-          "total": 124,
-          "meta": {
-            "sign": "Gemini",
-            "approximate": false
-          }
-        },
-        "synodic": {
-          "label": "0/370 days",
-          "unit": "days",
-          "index": 0,
-          "total": 370,
-          "meta": {
-            "anchor": "opposition",
-            "anchor_date": "2025-11-05",
-            "approximate": false
-          }
-        },
-        "sidereal": {
-          "label": "0.8/84.0 years",
-          "unit": "years",
-          "index": 0.8,
-          "total": 84.0,
-          "meta": {
-            "total_days": 30685.4,
-            "approximate": true
-          }
-        }
-      },
-      "Neptune": {
-        "transit": {
-          "label": "14/70 days",
-          "unit": "days",
-          "index": 14,
-          "total": 70,
-          "meta": {
-            "sign": "Pisces",
-            "approximate": true
-          }
-        },
-        "synodic": {
-          "label": "42/367 days",
-          "unit": "days",
-          "index": 42,
-          "total": 367,
-          "meta": {
-            "anchor": "opposition",
-            "anchor_date": "2025-09-24",
-            "approximate": false
-          }
-        },
-        "sidereal": {
-          "label": "0.8/164.8 years",
-          "unit": "years",
-          "index": 0.8,
-          "total": 164.8,
-          "meta": {
-            "total_days": 60189.0,
-            "approximate": true
-          }
-        }
-      },
-      "Pluto": {
-        "transit": {
-          "label": "309/365 days",
-          "unit": "days",
-          "index": 309,
-          "total": 365,
-          "meta": {
-            "sign": "Aquarius",
-            "approximate": true
-          }
-        },
-        "synodic": {
-          "label": "103/367 days",
-          "unit": "days",
-          "index": 103,
-          "total": 367,
-          "meta": {
-            "anchor": "opposition",
-            "anchor_date": "2025-07-25",
-            "approximate": false
-          }
-        },
-        "sidereal": {
-          "label": "0.8/247.9 years",
-          "unit": "years",
-          "index": 0.8,
-          "total": 247.9,
-          "meta": {
-            "total_days": 90560.0,
-            "approximate": true
-          }
-        }
-      }
-    },
-    "2025-11-06": {
-      "Sun": {
-        "transit": {
-          "label": "14/30 days",
-          "unit": "days",
-          "index": 14,
-          "total": 30,
-          "meta": {
-            "sign": "Scorpio",
-            "approximate": false
-          }
-        },
-        "synodic": {
-          "label": null,
-          "unit": "days",
-          "index": 0,
-          "total": 0,
-          "meta": {
-            "approximate": true
-          }
-        },
-        "sidereal": {
-          "label": "0.8/1.0 years",
-          "unit": "years",
-          "index": 0.8,
-          "total": 1.0,
-          "meta": {
-            "total_days": 365.256,
-            "approximate": true
-          }
-        }
-      },
-      "Moon": {
-        "transit": {
-          "label": "2/2 days",
-          "unit": "days",
-          "index": 2,
-          "total": 2,
-          "meta": {
-            "sign": "Taurus",
-            "approximate": false
-          }
-        },
-        "synodic": {
-          "label": "15/30 days",
-          "unit": "days",
-          "index": 15,
-          "total": 30,
-          "meta": {
-            "anchor": "conjunction",
-            "anchor_date": "2025-10-22",
-            "approximate": false
-          }
-        },
-        "sidereal": {
-          "label": "12/27 days",
-          "unit": "days",
-          "index": 12,
-          "total": 27,
-          "meta": {
-            "total_days": 27.32166,
-            "approximate": true
-          }
-        }
-      },
-      "Mercury": {
-        "transit": {
-          "label": "8/21 days",
-          "unit": "days",
-          "index": 8,
-          "total": 21,
-          "meta": {
-            "sign": "Sagittarius",
-            "approximate": false
-          }
-        },
-        "synodic": {
-          "label": "0/116 days",
-          "unit": "days",
-          "index": 0,
-          "total": 116,
-          "meta": {
-            "anchor": "conjunction",
-            "anchor_date": "2025-11-06",
-            "approximate": false
-          }
-        },
-        "sidereal": {
-          "label": "45/88 days",
-          "unit": "days",
-          "index": 45,
-          "total": 88,
-          "meta": {
-            "total_days": 87.969,
-            "approximate": true
-          }
-        }
-      },
-      "Venus": {
-        "transit": {
-          "label": "24/24 days",
-          "unit": "days",
-          "index": 24,
-          "total": 24,
-          "meta": {
-            "sign": "Libra",
-            "approximate": false
-          }
-        },
-        "synodic": {
-          "label": "0/584 days",
-          "unit": "days",
-          "index": 0,
-          "total": 584,
-          "meta": {
-            "anchor": "conjunction",
-            "anchor_date": "2025-11-06",
-            "approximate": false
-          }
-        },
-        "sidereal": {
-          "label": "84/225 days",
-          "unit": "days",
-          "index": 84,
-          "total": 225,
-          "meta": {
-            "total_days": 224.701,
-            "approximate": true
-          }
-        }
-      },
-      "Mars": {
-        "transit": {
-          "label": "2/41 days",
-          "unit": "days",
-          "index": 2,
-          "total": 41,
-          "meta": {
-            "sign": "Sagittarius",
-            "approximate": false
-          }
-        },
-        "synodic": {
-          "label": "294/780 days",
-          "unit": "days",
-          "index": 294,
-          "total": 780,
-          "meta": {
-            "anchor": "opposition",
-            "anchor_date": "2025-01-16",
-            "approximate": false
-          }
-        },
-        "sidereal": {
-          "label": "0.8/1.9 years",
-          "unit": "years",
-          "index": 0.8,
-          "total": 1.9,
-          "meta": {
-            "total_days": 686.98,
-            "approximate": true
-          }
-        }
-      },
-      "Jupiter": {
-        "transit": {
-          "label": "150/205 days",
-          "unit": "days",
-          "index": 150,
-          "total": 205,
-          "meta": {
-            "sign": "Cancer",
-            "approximate": true
-          }
-        },
-        "synodic": {
-          "label": "0/399 days",
-          "unit": "days",
-          "index": 0,
-          "total": 399,
-          "meta": {
-            "anchor": "opposition",
-            "anchor_date": "2025-11-06",
-            "approximate": false
-          }
-        },
-        "sidereal": {
-          "label": "0.8/11.9 years",
-          "unit": "years",
-          "index": 0.8,
-          "total": 11.9,
-          "meta": {
-            "total_days": 4332.589,
-            "approximate": true
-          }
-        }
-      },
-      "Saturn": {
-        "transit": {
-          "label": "66/121 days",
-          "unit": "days",
-          "index": 66,
-          "total": 121,
-          "meta": {
-            "sign": "Pisces",
-            "approximate": true
-          }
-        },
-        "synodic": {
-          "label": "46/378 days",
-          "unit": "days",
-          "index": 46,
-          "total": 378,
-          "meta": {
-            "anchor": "opposition",
-            "anchor_date": "2025-09-21",
-            "approximate": false
-          }
-        },
-        "sidereal": {
-          "label": "0.8/29.5 years",
-          "unit": "years",
-          "index": 0.8,
-          "total": 29.5,
-          "meta": {
-            "total_days": 10759.22,
-            "approximate": true
-          }
-        }
-      },
-      "Uranus": {
-        "transit": {
-          "label": "122/124 days",
-          "unit": "days",
-          "index": 122,
-          "total": 124,
-          "meta": {
-            "sign": "Gemini",
-            "approximate": false
-          }
-        },
-        "synodic": {
-          "label": "0/370 days",
-          "unit": "days",
-          "index": 0,
-          "total": 370,
-          "meta": {
-            "anchor": "opposition",
-            "anchor_date": "2025-11-06",
-            "approximate": false
-          }
-        },
-        "sidereal": {
-          "label": "0.8/84.0 years",
-          "unit": "years",
-          "index": 0.8,
-          "total": 84.0,
-          "meta": {
-            "total_days": 30685.4,
-            "approximate": true
-          }
-        }
-      },
-      "Neptune": {
-        "transit": {
-          "label": "15/70 days",
-          "unit": "days",
-          "index": 15,
-          "total": 70,
-          "meta": {
-            "sign": "Pisces",
-            "approximate": true
-          }
-        },
-        "synodic": {
-          "label": "43/367 days",
-          "unit": "days",
-          "index": 43,
-          "total": 367,
-          "meta": {
-            "anchor": "opposition",
-            "anchor_date": "2025-09-24",
-            "approximate": false
-          }
-        },
-        "sidereal": {
-          "label": "0.8/164.8 years",
-          "unit": "years",
-          "index": 0.8,
-          "total": 164.8,
-          "meta": {
-            "total_days": 60189.0,
-            "approximate": true
-          }
-        }
-      },
-      "Pluto": {
-        "transit": {
-          "label": "310/365 days",
-          "unit": "days",
-          "index": 310,
-          "total": 365,
-          "meta": {
-            "sign": "Aquarius",
-            "approximate": true
-          }
-        },
-        "synodic": {
-          "label": "104/367 days",
-          "unit": "days",
-          "index": 104,
-          "total": 367,
-          "meta": {
-            "anchor": "opposition",
-            "anchor_date": "2025-07-25",
-            "approximate": false
-          }
-        },
-        "sidereal": {
-          "label": "0.8/247.9 years",
-          "unit": "years",
-          "index": 0.8,
-          "total": 247.9,
-          "meta": {
-            "total_days": 90560.0,
-            "approximate": true
-          }
-        }
-      }
-    },
-    "2025-11-07": {
-      "Sun": {
-        "transit": {
-          "label": "15/30 days",
-          "unit": "days",
-          "index": 15,
-          "total": 30,
-          "meta": {
-            "sign": "Scorpio",
-            "approximate": false
-          }
-        },
-        "synodic": {
-          "label": null,
-          "unit": "days",
-          "index": 0,
-          "total": 0,
-          "meta": {
-            "approximate": true
-          }
-        },
-        "sidereal": {
-          "label": "0.8/1.0 years",
-          "unit": "years",
-          "index": 0.8,
-          "total": 1.0,
-          "meta": {
-            "total_days": 365.256,
-            "approximate": true
-          }
-        }
-      },
-      "Moon": {
-        "transit": {
-          "label": "1/2 days",
-          "unit": "days",
-          "index": 1,
-          "total": 2,
-          "meta": {
-            "sign": "Gemini",
-            "approximate": false
-          }
-        },
-        "synodic": {
-          "label": "0/30 days",
-          "unit": "days",
-          "index": 0,
-          "total": 30,
-          "meta": {
-            "anchor": "conjunction",
-            "anchor_date": "2025-11-07",
-            "approximate": false
-          }
-        },
-        "sidereal": {
-          "label": "13/27 days",
-          "unit": "days",
-          "index": 13,
-          "total": 27,
-          "meta": {
-            "total_days": 27.32166,
-            "approximate": true
-          }
-        }
-      },
-      "Mercury": {
-        "transit": {
-          "label": "9/21 days",
-          "unit": "days",
-          "index": 9,
-          "total": 21,
-          "meta": {
-            "sign": "Sagittarius",
-            "approximate": false
-          }
-        },
-        "synodic": {
-          "label": "0/116 days",
-          "unit": "days",
-          "index": 0,
-          "total": 116,
-          "meta": {
-            "anchor": "conjunction",
-            "anchor_date": "2025-11-07",
-            "approximate": false
-          }
-        },
-        "sidereal": {
-          "label": "46/88 days",
-          "unit": "days",
-          "index": 46,
-          "total": 88,
-          "meta": {
-            "total_days": 87.969,
-            "approximate": true
-          }
-        }
-      },
-      "Venus": {
-        "transit": {
-          "label": "1/24 days",
-          "unit": "days",
-          "index": 1,
-          "total": 24,
-          "meta": {
-            "sign": "Scorpio",
-            "approximate": false
-          }
-        },
-        "synodic": {
-          "label": "0/584 days",
-          "unit": "days",
-          "index": 0,
-          "total": 584,
-          "meta": {
-            "anchor": "conjunction",
-            "anchor_date": "2025-11-07",
-            "approximate": false
-          }
-        },
-        "sidereal": {
-          "label": "85/225 days",
-          "unit": "days",
-          "index": 85,
-          "total": 225,
-          "meta": {
-            "total_days": 224.701,
-            "approximate": true
-          }
-        }
-      },
-      "Mars": {
-        "transit": {
-          "label": "3/41 days",
-          "unit": "days",
-          "index": 3,
-          "total": 41,
-          "meta": {
-            "sign": "Sagittarius",
-            "approximate": false
-          }
-        },
-        "synodic": {
-          "label": "295/780 days",
-          "unit": "days",
-          "index": 295,
-          "total": 780,
-          "meta": {
-            "anchor": "opposition",
-            "anchor_date": "2025-01-16",
-            "approximate": false
-          }
-        },
-        "sidereal": {
-          "label": "0.8/1.9 years",
-          "unit": "years",
-          "index": 0.8,
-          "total": 1.9,
-          "meta": {
-            "total_days": 686.98,
-            "approximate": true
-          }
-        }
-      },
-      "Jupiter": {
-        "transit": {
-          "label": "151/205 days",
-          "unit": "days",
-          "index": 151,
-          "total": 205,
-          "meta": {
-            "sign": "Cancer",
-            "approximate": true
-          }
-        },
-        "synodic": {
-          "label": "0/399 days",
-          "unit": "days",
-          "index": 0,
-          "total": 399,
-          "meta": {
-            "anchor": "opposition",
-            "anchor_date": "2025-11-07",
-            "approximate": false
-          }
-        },
-        "sidereal": {
-          "label": "0.8/11.9 years",
-          "unit": "years",
-          "index": 0.8,
-          "total": 11.9,
-          "meta": {
-            "total_days": 4332.589,
-            "approximate": true
-          }
-        }
-      },
-      "Saturn": {
-        "transit": {
-          "label": "67/121 days",
-          "unit": "days",
-          "index": 67,
-          "total": 121,
-          "meta": {
-            "sign": "Pisces",
-            "approximate": true
-          }
-        },
-        "synodic": {
-          "label": "47/378 days",
-          "unit": "days",
-          "index": 47,
-          "total": 378,
-          "meta": {
-            "anchor": "opposition",
-            "anchor_date": "2025-09-21",
-            "approximate": false
-          }
-        },
-        "sidereal": {
-          "label": "0.8/29.5 years",
-          "unit": "years",
-          "index": 0.8,
-          "total": 29.5,
-          "meta": {
-            "total_days": 10759.22,
-            "approximate": true
-          }
-        }
-      },
-      "Uranus": {
-        "transit": {
-          "label": "123/124 days",
-          "unit": "days",
-          "index": 123,
-          "total": 124,
-          "meta": {
-            "sign": "Gemini",
-            "approximate": false
-          }
-        },
-        "synodic": {
-          "label": "0/370 days",
-          "unit": "days",
-          "index": 0,
-          "total": 370,
-          "meta": {
-            "anchor": "opposition",
-            "anchor_date": "2025-11-07",
-            "approximate": false
-          }
-        },
-        "sidereal": {
-          "label": "0.8/84.0 years",
-          "unit": "years",
-          "index": 0.8,
-          "total": 84.0,
-          "meta": {
-            "total_days": 30685.4,
-            "approximate": true
-          }
-        }
-      },
-      "Neptune": {
-        "transit": {
-          "label": "16/70 days",
-          "unit": "days",
-          "index": 16,
-          "total": 70,
-          "meta": {
-            "sign": "Pisces",
-            "approximate": true
-          }
-        },
-        "synodic": {
-          "label": "44/367 days",
-          "unit": "days",
-          "index": 44,
-          "total": 367,
-          "meta": {
-            "anchor": "opposition",
-            "anchor_date": "2025-09-24",
-            "approximate": false
-          }
-        },
-        "sidereal": {
-          "label": "0.8/164.8 years",
-          "unit": "years",
-          "index": 0.8,
-          "total": 164.8,
-          "meta": {
-            "total_days": 60189.0,
-            "approximate": true
-          }
-        }
-      },
-      "Pluto": {
-        "transit": {
-          "label": "311/365 days",
-          "unit": "days",
-          "index": 311,
-          "total": 365,
-          "meta": {
-            "sign": "Aquarius",
-            "approximate": true
-          }
-        },
-        "synodic": {
-          "label": "105/367 days",
-          "unit": "days",
-          "index": 105,
-          "total": 367,
-          "meta": {
-            "anchor": "opposition",
-            "anchor_date": "2025-07-25",
-            "approximate": false
-          }
-        },
-        "sidereal": {
-          "label": "0.8/247.9 years",
-          "unit": "years",
-          "index": 0.8,
-          "total": 247.9,
-          "meta": {
-            "total_days": 90560.0,
-            "approximate": true
-          }
-        }
-      }
-    },
-    "2025-11-08": {
-      "Sun": {
-        "transit": {
-          "label": "16/30 days",
-          "unit": "days",
-          "index": 16,
+          "index": 18,
           "total": 30,
           "meta": {
             "sign": "Scorpio",
@@ -1691,7 +41,7 @@
           "index": 2,
           "total": 2,
           "meta": {
-            "sign": "Gemini",
+            "sign": "Cancer",
             "approximate": false
           }
         },
@@ -1702,14 +52,14 @@
           "total": 30,
           "meta": {
             "anchor": "conjunction",
-            "anchor_date": "2025-11-08",
+            "anchor_date": "2025-11-10",
             "approximate": false
           }
         },
         "sidereal": {
-          "label": "14/27 days",
+          "label": "16/27 days",
           "unit": "days",
-          "index": 14,
+          "index": 16,
           "total": 27,
           "meta": {
             "total_days": 27.32166,
@@ -1719,9 +69,9 @@
       },
       "Mercury": {
         "transit": {
-          "label": "10/21 days",
+          "label": "12/21 days",
           "unit": "days",
-          "index": 10,
+          "index": 12,
           "total": 21,
           "meta": {
             "sign": "Sagittarius",
@@ -1735,14 +85,14 @@
           "total": 116,
           "meta": {
             "anchor": "conjunction",
-            "anchor_date": "2025-11-08",
+            "anchor_date": "2025-11-10",
             "approximate": false
           }
         },
         "sidereal": {
-          "label": "47/88 days",
+          "label": "49/88 days",
           "unit": "days",
-          "index": 47,
+          "index": 49,
           "total": 88,
           "meta": {
             "total_days": 87.969,
@@ -1752,9 +102,9 @@
       },
       "Venus": {
         "transit": {
-          "label": "2/24 days",
+          "label": "4/24 days",
           "unit": "days",
-          "index": 2,
+          "index": 4,
           "total": 24,
           "meta": {
             "sign": "Scorpio",
@@ -1768,14 +118,14 @@
           "total": 584,
           "meta": {
             "anchor": "conjunction",
-            "anchor_date": "2025-11-08",
+            "anchor_date": "2025-11-10",
             "approximate": false
           }
         },
         "sidereal": {
-          "label": "86/225 days",
+          "label": "88/225 days",
           "unit": "days",
-          "index": 86,
+          "index": 88,
           "total": 225,
           "meta": {
             "total_days": 224.701,
@@ -1785,9 +135,9 @@
       },
       "Mars": {
         "transit": {
-          "label": "4/41 days",
+          "label": "6/41 days",
           "unit": "days",
-          "index": 4,
+          "index": 6,
           "total": 41,
           "meta": {
             "sign": "Sagittarius",
@@ -1795,9 +145,9 @@
           }
         },
         "synodic": {
-          "label": "296/780 days",
+          "label": "298/780 days",
           "unit": "days",
-          "index": 296,
+          "index": 298,
           "total": 780,
           "meta": {
             "anchor": "opposition",
@@ -1818,9 +168,9 @@
       },
       "Jupiter": {
         "transit": {
-          "label": "152/205 days",
+          "label": "154/205 days",
           "unit": "days",
-          "index": 152,
+          "index": 154,
           "total": 205,
           "meta": {
             "sign": "Cancer",
@@ -1834,7 +184,7 @@
           "total": 399,
           "meta": {
             "anchor": "opposition",
-            "anchor_date": "2025-11-08",
+            "anchor_date": "2025-11-10",
             "approximate": false
           }
         },
@@ -1851,9 +201,9 @@
       },
       "Saturn": {
         "transit": {
-          "label": "68/121 days",
+          "label": "70/121 days",
           "unit": "days",
-          "index": 68,
+          "index": 70,
           "total": 121,
           "meta": {
             "sign": "Pisces",
@@ -1861,9 +211,9 @@
           }
         },
         "synodic": {
-          "label": "48/378 days",
+          "label": "50/378 days",
           "unit": "days",
-          "index": 48,
+          "index": 50,
           "total": 378,
           "meta": {
             "anchor": "opposition",
@@ -1884,13 +234,13 @@
       },
       "Uranus": {
         "transit": {
-          "label": "124/124 days",
+          "label": "2/53 days",
           "unit": "days",
-          "index": 124,
-          "total": 124,
+          "index": 2,
+          "total": 53,
           "meta": {
-            "sign": "Gemini",
-            "approximate": false
+            "sign": "Taurus",
+            "approximate": true
           }
         },
         "synodic": {
@@ -1900,7 +250,7 @@
           "total": 370,
           "meta": {
             "anchor": "opposition",
-            "anchor_date": "2025-11-08",
+            "anchor_date": "2025-11-10",
             "approximate": false
           }
         },
@@ -1917,9 +267,9 @@
       },
       "Neptune": {
         "transit": {
-          "label": "17/70 days",
+          "label": "19/70 days",
           "unit": "days",
-          "index": 17,
+          "index": 19,
           "total": 70,
           "meta": {
             "sign": "Pisces",
@@ -1927,9 +277,9 @@
           }
         },
         "synodic": {
-          "label": "45/367 days",
+          "label": "47/367 days",
           "unit": "days",
-          "index": 45,
+          "index": 47,
           "total": 367,
           "meta": {
             "anchor": "opposition",
@@ -1950,9 +300,9 @@
       },
       "Pluto": {
         "transit": {
-          "label": "312/365 days",
+          "label": "314/365 days",
           "unit": "days",
-          "index": 312,
+          "index": 314,
           "total": 365,
           "meta": {
             "sign": "Aquarius",
@@ -1960,9 +310,9 @@
           }
         },
         "synodic": {
-          "label": "106/367 days",
+          "label": "108/367 days",
           "unit": "days",
-          "index": 106,
+          "index": 108,
           "total": 367,
           "meta": {
             "anchor": "opposition",
@@ -1982,12 +332,12 @@
         }
       }
     },
-    "2025-11-09": {
+    "2025-11-11": {
       "Sun": {
         "transit": {
-          "label": "17/30 days",
+          "label": "19/30 days",
           "unit": "days",
-          "index": 17,
+          "index": 19,
           "total": 30,
           "meta": {
             "sign": "Scorpio",
@@ -2021,7 +371,7 @@
           "index": 1,
           "total": 2,
           "meta": {
-            "sign": "Cancer",
+            "sign": "Leo",
             "approximate": false
           }
         },
@@ -2032,14 +382,14 @@
           "total": 30,
           "meta": {
             "anchor": "conjunction",
-            "anchor_date": "2025-11-09",
+            "anchor_date": "2025-11-11",
             "approximate": false
           }
         },
         "sidereal": {
-          "label": "15/27 days",
+          "label": "17/27 days",
           "unit": "days",
-          "index": 15,
+          "index": 17,
           "total": 27,
           "meta": {
             "total_days": 27.32166,
@@ -2049,9 +399,9 @@
       },
       "Mercury": {
         "transit": {
-          "label": "11/21 days",
+          "label": "13/21 days",
           "unit": "days",
-          "index": 11,
+          "index": 13,
           "total": 21,
           "meta": {
             "sign": "Sagittarius",
@@ -2065,14 +415,14 @@
           "total": 116,
           "meta": {
             "anchor": "conjunction",
-            "anchor_date": "2025-11-09",
+            "anchor_date": "2025-11-11",
             "approximate": false
           }
         },
         "sidereal": {
-          "label": "48/88 days",
+          "label": "50/88 days",
           "unit": "days",
-          "index": 48,
+          "index": 50,
           "total": 88,
           "meta": {
             "total_days": 87.969,
@@ -2082,9 +432,9 @@
       },
       "Venus": {
         "transit": {
-          "label": "3/24 days",
+          "label": "5/24 days",
           "unit": "days",
-          "index": 3,
+          "index": 5,
           "total": 24,
           "meta": {
             "sign": "Scorpio",
@@ -2098,14 +448,14 @@
           "total": 584,
           "meta": {
             "anchor": "conjunction",
-            "anchor_date": "2025-11-09",
+            "anchor_date": "2025-11-11",
             "approximate": false
           }
         },
         "sidereal": {
-          "label": "87/225 days",
+          "label": "89/225 days",
           "unit": "days",
-          "index": 87,
+          "index": 89,
           "total": 225,
           "meta": {
             "total_days": 224.701,
@@ -2115,9 +465,9 @@
       },
       "Mars": {
         "transit": {
-          "label": "5/41 days",
+          "label": "7/41 days",
           "unit": "days",
-          "index": 5,
+          "index": 7,
           "total": 41,
           "meta": {
             "sign": "Sagittarius",
@@ -2125,9 +475,9 @@
           }
         },
         "synodic": {
-          "label": "297/780 days",
+          "label": "299/780 days",
           "unit": "days",
-          "index": 297,
+          "index": 299,
           "total": 780,
           "meta": {
             "anchor": "opposition",
@@ -2148,9 +498,9 @@
       },
       "Jupiter": {
         "transit": {
-          "label": "153/205 days",
+          "label": "155/205 days",
           "unit": "days",
-          "index": 153,
+          "index": 155,
           "total": 205,
           "meta": {
             "sign": "Cancer",
@@ -2164,7 +514,7 @@
           "total": 399,
           "meta": {
             "anchor": "opposition",
-            "anchor_date": "2025-11-09",
+            "anchor_date": "2025-11-11",
             "approximate": false
           }
         },
@@ -2181,9 +531,9 @@
       },
       "Saturn": {
         "transit": {
-          "label": "69/121 days",
+          "label": "71/121 days",
           "unit": "days",
-          "index": 69,
+          "index": 71,
           "total": 121,
           "meta": {
             "sign": "Pisces",
@@ -2191,9 +541,9 @@
           }
         },
         "synodic": {
-          "label": "49/378 days",
+          "label": "51/378 days",
           "unit": "days",
-          "index": 49,
+          "index": 51,
           "total": 378,
           "meta": {
             "anchor": "opposition",
@@ -2214,9 +564,9 @@
       },
       "Uranus": {
         "transit": {
-          "label": "1/53 days",
+          "label": "3/53 days",
           "unit": "days",
-          "index": 1,
+          "index": 3,
           "total": 53,
           "meta": {
             "sign": "Taurus",
@@ -2230,7 +580,7 @@
           "total": 370,
           "meta": {
             "anchor": "opposition",
-            "anchor_date": "2025-11-09",
+            "anchor_date": "2025-11-11",
             "approximate": false
           }
         },
@@ -2247,9 +597,9 @@
       },
       "Neptune": {
         "transit": {
-          "label": "18/70 days",
+          "label": "20/70 days",
           "unit": "days",
-          "index": 18,
+          "index": 20,
           "total": 70,
           "meta": {
             "sign": "Pisces",
@@ -2257,9 +607,9 @@
           }
         },
         "synodic": {
-          "label": "46/367 days",
+          "label": "48/367 days",
           "unit": "days",
-          "index": 46,
+          "index": 48,
           "total": 367,
           "meta": {
             "anchor": "opposition",
@@ -2280,9 +630,9 @@
       },
       "Pluto": {
         "transit": {
-          "label": "313/365 days",
+          "label": "315/365 days",
           "unit": "days",
-          "index": 313,
+          "index": 315,
           "total": 365,
           "meta": {
             "sign": "Aquarius",
@@ -2290,9 +640,1659 @@
           }
         },
         "synodic": {
-          "label": "107/367 days",
+          "label": "109/367 days",
           "unit": "days",
-          "index": 107,
+          "index": 109,
+          "total": 367,
+          "meta": {
+            "anchor": "opposition",
+            "anchor_date": "2025-07-25",
+            "approximate": false
+          }
+        },
+        "sidereal": {
+          "label": "0.9/247.9 years",
+          "unit": "years",
+          "index": 0.9,
+          "total": 247.9,
+          "meta": {
+            "total_days": 90560.0,
+            "approximate": true
+          }
+        }
+      }
+    },
+    "2025-11-12": {
+      "Sun": {
+        "transit": {
+          "label": "20/30 days",
+          "unit": "days",
+          "index": 20,
+          "total": 30,
+          "meta": {
+            "sign": "Scorpio",
+            "approximate": false
+          }
+        },
+        "synodic": {
+          "label": null,
+          "unit": "days",
+          "index": 0,
+          "total": 0,
+          "meta": {
+            "approximate": true
+          }
+        },
+        "sidereal": {
+          "label": "0.9/1.0 years",
+          "unit": "years",
+          "index": 0.9,
+          "total": 1.0,
+          "meta": {
+            "total_days": 365.256,
+            "approximate": true
+          }
+        }
+      },
+      "Moon": {
+        "transit": {
+          "label": "2/2 days",
+          "unit": "days",
+          "index": 2,
+          "total": 2,
+          "meta": {
+            "sign": "Leo",
+            "approximate": false
+          }
+        },
+        "synodic": {
+          "label": "0/30 days",
+          "unit": "days",
+          "index": 0,
+          "total": 30,
+          "meta": {
+            "anchor": "conjunction",
+            "anchor_date": "2025-11-12",
+            "approximate": false
+          }
+        },
+        "sidereal": {
+          "label": "18/27 days",
+          "unit": "days",
+          "index": 18,
+          "total": 27,
+          "meta": {
+            "total_days": 27.32166,
+            "approximate": true
+          }
+        }
+      },
+      "Mercury": {
+        "transit": {
+          "label": "14/21 days",
+          "unit": "days",
+          "index": 14,
+          "total": 21,
+          "meta": {
+            "sign": "Sagittarius",
+            "approximate": false
+          }
+        },
+        "synodic": {
+          "label": "0/116 days",
+          "unit": "days",
+          "index": 0,
+          "total": 116,
+          "meta": {
+            "anchor": "conjunction",
+            "anchor_date": "2025-11-12",
+            "approximate": false
+          }
+        },
+        "sidereal": {
+          "label": "51/88 days",
+          "unit": "days",
+          "index": 51,
+          "total": 88,
+          "meta": {
+            "total_days": 87.969,
+            "approximate": true
+          }
+        }
+      },
+      "Venus": {
+        "transit": {
+          "label": "6/24 days",
+          "unit": "days",
+          "index": 6,
+          "total": 24,
+          "meta": {
+            "sign": "Scorpio",
+            "approximate": false
+          }
+        },
+        "synodic": {
+          "label": "0/584 days",
+          "unit": "days",
+          "index": 0,
+          "total": 584,
+          "meta": {
+            "anchor": "conjunction",
+            "anchor_date": "2025-11-12",
+            "approximate": false
+          }
+        },
+        "sidereal": {
+          "label": "90/225 days",
+          "unit": "days",
+          "index": 90,
+          "total": 225,
+          "meta": {
+            "total_days": 224.701,
+            "approximate": true
+          }
+        }
+      },
+      "Mars": {
+        "transit": {
+          "label": "8/41 days",
+          "unit": "days",
+          "index": 8,
+          "total": 41,
+          "meta": {
+            "sign": "Sagittarius",
+            "approximate": false
+          }
+        },
+        "synodic": {
+          "label": "300/780 days",
+          "unit": "days",
+          "index": 300,
+          "total": 780,
+          "meta": {
+            "anchor": "opposition",
+            "anchor_date": "2025-01-16",
+            "approximate": false
+          }
+        },
+        "sidereal": {
+          "label": "0.9/1.9 years",
+          "unit": "years",
+          "index": 0.9,
+          "total": 1.9,
+          "meta": {
+            "total_days": 686.98,
+            "approximate": true
+          }
+        }
+      },
+      "Jupiter": {
+        "transit": {
+          "label": "156/205 days",
+          "unit": "days",
+          "index": 156,
+          "total": 205,
+          "meta": {
+            "sign": "Cancer",
+            "approximate": true
+          }
+        },
+        "synodic": {
+          "label": "0/399 days",
+          "unit": "days",
+          "index": 0,
+          "total": 399,
+          "meta": {
+            "anchor": "opposition",
+            "anchor_date": "2025-11-12",
+            "approximate": false
+          }
+        },
+        "sidereal": {
+          "label": "0.9/11.9 years",
+          "unit": "years",
+          "index": 0.9,
+          "total": 11.9,
+          "meta": {
+            "total_days": 4332.589,
+            "approximate": true
+          }
+        }
+      },
+      "Saturn": {
+        "transit": {
+          "label": "72/121 days",
+          "unit": "days",
+          "index": 72,
+          "total": 121,
+          "meta": {
+            "sign": "Pisces",
+            "approximate": true
+          }
+        },
+        "synodic": {
+          "label": "52/378 days",
+          "unit": "days",
+          "index": 52,
+          "total": 378,
+          "meta": {
+            "anchor": "opposition",
+            "anchor_date": "2025-09-21",
+            "approximate": false
+          }
+        },
+        "sidereal": {
+          "label": "0.9/29.5 years",
+          "unit": "years",
+          "index": 0.9,
+          "total": 29.5,
+          "meta": {
+            "total_days": 10759.22,
+            "approximate": true
+          }
+        }
+      },
+      "Uranus": {
+        "transit": {
+          "label": "4/53 days",
+          "unit": "days",
+          "index": 4,
+          "total": 53,
+          "meta": {
+            "sign": "Taurus",
+            "approximate": true
+          }
+        },
+        "synodic": {
+          "label": "0/370 days",
+          "unit": "days",
+          "index": 0,
+          "total": 370,
+          "meta": {
+            "anchor": "opposition",
+            "anchor_date": "2025-11-12",
+            "approximate": false
+          }
+        },
+        "sidereal": {
+          "label": "0.9/84.0 years",
+          "unit": "years",
+          "index": 0.9,
+          "total": 84.0,
+          "meta": {
+            "total_days": 30685.4,
+            "approximate": true
+          }
+        }
+      },
+      "Neptune": {
+        "transit": {
+          "label": "21/70 days",
+          "unit": "days",
+          "index": 21,
+          "total": 70,
+          "meta": {
+            "sign": "Pisces",
+            "approximate": true
+          }
+        },
+        "synodic": {
+          "label": "49/367 days",
+          "unit": "days",
+          "index": 49,
+          "total": 367,
+          "meta": {
+            "anchor": "opposition",
+            "anchor_date": "2025-09-24",
+            "approximate": false
+          }
+        },
+        "sidereal": {
+          "label": "0.9/164.8 years",
+          "unit": "years",
+          "index": 0.9,
+          "total": 164.8,
+          "meta": {
+            "total_days": 60189.0,
+            "approximate": true
+          }
+        }
+      },
+      "Pluto": {
+        "transit": {
+          "label": "316/365 days",
+          "unit": "days",
+          "index": 316,
+          "total": 365,
+          "meta": {
+            "sign": "Aquarius",
+            "approximate": true
+          }
+        },
+        "synodic": {
+          "label": "110/367 days",
+          "unit": "days",
+          "index": 110,
+          "total": 367,
+          "meta": {
+            "anchor": "opposition",
+            "anchor_date": "2025-07-25",
+            "approximate": false
+          }
+        },
+        "sidereal": {
+          "label": "0.9/247.9 years",
+          "unit": "years",
+          "index": 0.9,
+          "total": 247.9,
+          "meta": {
+            "total_days": 90560.0,
+            "approximate": true
+          }
+        }
+      }
+    },
+    "2025-11-13": {
+      "Sun": {
+        "transit": {
+          "label": "21/30 days",
+          "unit": "days",
+          "index": 21,
+          "total": 30,
+          "meta": {
+            "sign": "Scorpio",
+            "approximate": false
+          }
+        },
+        "synodic": {
+          "label": null,
+          "unit": "days",
+          "index": 0,
+          "total": 0,
+          "meta": {
+            "approximate": true
+          }
+        },
+        "sidereal": {
+          "label": "0.9/1.0 years",
+          "unit": "years",
+          "index": 0.9,
+          "total": 1.0,
+          "meta": {
+            "total_days": 365.256,
+            "approximate": true
+          }
+        }
+      },
+      "Moon": {
+        "transit": {
+          "label": "1/3 days",
+          "unit": "days",
+          "index": 1,
+          "total": 3,
+          "meta": {
+            "sign": "Virgo",
+            "approximate": false
+          }
+        },
+        "synodic": {
+          "label": "0/30 days",
+          "unit": "days",
+          "index": 0,
+          "total": 30,
+          "meta": {
+            "anchor": "conjunction",
+            "anchor_date": "2025-11-13",
+            "approximate": false
+          }
+        },
+        "sidereal": {
+          "label": "19/27 days",
+          "unit": "days",
+          "index": 19,
+          "total": 27,
+          "meta": {
+            "total_days": 27.32166,
+            "approximate": true
+          }
+        }
+      },
+      "Mercury": {
+        "transit": {
+          "label": "15/21 days",
+          "unit": "days",
+          "index": 15,
+          "total": 21,
+          "meta": {
+            "sign": "Sagittarius",
+            "approximate": false
+          }
+        },
+        "synodic": {
+          "label": "0/116 days",
+          "unit": "days",
+          "index": 0,
+          "total": 116,
+          "meta": {
+            "anchor": "conjunction",
+            "anchor_date": "2025-11-13",
+            "approximate": false
+          }
+        },
+        "sidereal": {
+          "label": "52/88 days",
+          "unit": "days",
+          "index": 52,
+          "total": 88,
+          "meta": {
+            "total_days": 87.969,
+            "approximate": true
+          }
+        }
+      },
+      "Venus": {
+        "transit": {
+          "label": "7/24 days",
+          "unit": "days",
+          "index": 7,
+          "total": 24,
+          "meta": {
+            "sign": "Scorpio",
+            "approximate": false
+          }
+        },
+        "synodic": {
+          "label": "0/584 days",
+          "unit": "days",
+          "index": 0,
+          "total": 584,
+          "meta": {
+            "anchor": "conjunction",
+            "anchor_date": "2025-11-13",
+            "approximate": false
+          }
+        },
+        "sidereal": {
+          "label": "91/225 days",
+          "unit": "days",
+          "index": 91,
+          "total": 225,
+          "meta": {
+            "total_days": 224.701,
+            "approximate": true
+          }
+        }
+      },
+      "Mars": {
+        "transit": {
+          "label": "9/41 days",
+          "unit": "days",
+          "index": 9,
+          "total": 41,
+          "meta": {
+            "sign": "Sagittarius",
+            "approximate": false
+          }
+        },
+        "synodic": {
+          "label": "301/780 days",
+          "unit": "days",
+          "index": 301,
+          "total": 780,
+          "meta": {
+            "anchor": "opposition",
+            "anchor_date": "2025-01-16",
+            "approximate": false
+          }
+        },
+        "sidereal": {
+          "label": "0.9/1.9 years",
+          "unit": "years",
+          "index": 0.9,
+          "total": 1.9,
+          "meta": {
+            "total_days": 686.98,
+            "approximate": true
+          }
+        }
+      },
+      "Jupiter": {
+        "transit": {
+          "label": "157/205 days",
+          "unit": "days",
+          "index": 157,
+          "total": 205,
+          "meta": {
+            "sign": "Cancer",
+            "approximate": true
+          }
+        },
+        "synodic": {
+          "label": "0/399 days",
+          "unit": "days",
+          "index": 0,
+          "total": 399,
+          "meta": {
+            "anchor": "opposition",
+            "anchor_date": "2025-11-13",
+            "approximate": false
+          }
+        },
+        "sidereal": {
+          "label": "0.9/11.9 years",
+          "unit": "years",
+          "index": 0.9,
+          "total": 11.9,
+          "meta": {
+            "total_days": 4332.589,
+            "approximate": true
+          }
+        }
+      },
+      "Saturn": {
+        "transit": {
+          "label": "73/121 days",
+          "unit": "days",
+          "index": 73,
+          "total": 121,
+          "meta": {
+            "sign": "Pisces",
+            "approximate": true
+          }
+        },
+        "synodic": {
+          "label": "53/378 days",
+          "unit": "days",
+          "index": 53,
+          "total": 378,
+          "meta": {
+            "anchor": "opposition",
+            "anchor_date": "2025-09-21",
+            "approximate": false
+          }
+        },
+        "sidereal": {
+          "label": "0.9/29.5 years",
+          "unit": "years",
+          "index": 0.9,
+          "total": 29.5,
+          "meta": {
+            "total_days": 10759.22,
+            "approximate": true
+          }
+        }
+      },
+      "Uranus": {
+        "transit": {
+          "label": "5/53 days",
+          "unit": "days",
+          "index": 5,
+          "total": 53,
+          "meta": {
+            "sign": "Taurus",
+            "approximate": true
+          }
+        },
+        "synodic": {
+          "label": "0/370 days",
+          "unit": "days",
+          "index": 0,
+          "total": 370,
+          "meta": {
+            "anchor": "opposition",
+            "anchor_date": "2025-11-13",
+            "approximate": false
+          }
+        },
+        "sidereal": {
+          "label": "0.9/84.0 years",
+          "unit": "years",
+          "index": 0.9,
+          "total": 84.0,
+          "meta": {
+            "total_days": 30685.4,
+            "approximate": true
+          }
+        }
+      },
+      "Neptune": {
+        "transit": {
+          "label": "22/70 days",
+          "unit": "days",
+          "index": 22,
+          "total": 70,
+          "meta": {
+            "sign": "Pisces",
+            "approximate": true
+          }
+        },
+        "synodic": {
+          "label": "50/367 days",
+          "unit": "days",
+          "index": 50,
+          "total": 367,
+          "meta": {
+            "anchor": "opposition",
+            "anchor_date": "2025-09-24",
+            "approximate": false
+          }
+        },
+        "sidereal": {
+          "label": "0.9/164.8 years",
+          "unit": "years",
+          "index": 0.9,
+          "total": 164.8,
+          "meta": {
+            "total_days": 60189.0,
+            "approximate": true
+          }
+        }
+      },
+      "Pluto": {
+        "transit": {
+          "label": "317/365 days",
+          "unit": "days",
+          "index": 317,
+          "total": 365,
+          "meta": {
+            "sign": "Aquarius",
+            "approximate": true
+          }
+        },
+        "synodic": {
+          "label": "111/367 days",
+          "unit": "days",
+          "index": 111,
+          "total": 367,
+          "meta": {
+            "anchor": "opposition",
+            "anchor_date": "2025-07-25",
+            "approximate": false
+          }
+        },
+        "sidereal": {
+          "label": "0.9/247.9 years",
+          "unit": "years",
+          "index": 0.9,
+          "total": 247.9,
+          "meta": {
+            "total_days": 90560.0,
+            "approximate": true
+          }
+        }
+      }
+    },
+    "2025-11-14": {
+      "Sun": {
+        "transit": {
+          "label": "22/30 days",
+          "unit": "days",
+          "index": 22,
+          "total": 30,
+          "meta": {
+            "sign": "Scorpio",
+            "approximate": false
+          }
+        },
+        "synodic": {
+          "label": null,
+          "unit": "days",
+          "index": 0,
+          "total": 0,
+          "meta": {
+            "approximate": true
+          }
+        },
+        "sidereal": {
+          "label": "0.9/1.0 years",
+          "unit": "years",
+          "index": 0.9,
+          "total": 1.0,
+          "meta": {
+            "total_days": 365.256,
+            "approximate": true
+          }
+        }
+      },
+      "Moon": {
+        "transit": {
+          "label": "2/3 days",
+          "unit": "days",
+          "index": 2,
+          "total": 3,
+          "meta": {
+            "sign": "Virgo",
+            "approximate": false
+          }
+        },
+        "synodic": {
+          "label": "0/30 days",
+          "unit": "days",
+          "index": 0,
+          "total": 30,
+          "meta": {
+            "anchor": "conjunction",
+            "anchor_date": "2025-11-14",
+            "approximate": false
+          }
+        },
+        "sidereal": {
+          "label": "20/27 days",
+          "unit": "days",
+          "index": 20,
+          "total": 27,
+          "meta": {
+            "total_days": 27.32166,
+            "approximate": true
+          }
+        }
+      },
+      "Mercury": {
+        "transit": {
+          "label": "16/21 days",
+          "unit": "days",
+          "index": 16,
+          "total": 21,
+          "meta": {
+            "sign": "Sagittarius",
+            "approximate": false
+          }
+        },
+        "synodic": {
+          "label": "0/116 days",
+          "unit": "days",
+          "index": 0,
+          "total": 116,
+          "meta": {
+            "anchor": "conjunction",
+            "anchor_date": "2025-11-14",
+            "approximate": false
+          }
+        },
+        "sidereal": {
+          "label": "53/88 days",
+          "unit": "days",
+          "index": 53,
+          "total": 88,
+          "meta": {
+            "total_days": 87.969,
+            "approximate": true
+          }
+        }
+      },
+      "Venus": {
+        "transit": {
+          "label": "8/24 days",
+          "unit": "days",
+          "index": 8,
+          "total": 24,
+          "meta": {
+            "sign": "Scorpio",
+            "approximate": false
+          }
+        },
+        "synodic": {
+          "label": "0/584 days",
+          "unit": "days",
+          "index": 0,
+          "total": 584,
+          "meta": {
+            "anchor": "conjunction",
+            "anchor_date": "2025-11-14",
+            "approximate": false
+          }
+        },
+        "sidereal": {
+          "label": "92/225 days",
+          "unit": "days",
+          "index": 92,
+          "total": 225,
+          "meta": {
+            "total_days": 224.701,
+            "approximate": true
+          }
+        }
+      },
+      "Mars": {
+        "transit": {
+          "label": "10/41 days",
+          "unit": "days",
+          "index": 10,
+          "total": 41,
+          "meta": {
+            "sign": "Sagittarius",
+            "approximate": false
+          }
+        },
+        "synodic": {
+          "label": "302/780 days",
+          "unit": "days",
+          "index": 302,
+          "total": 780,
+          "meta": {
+            "anchor": "opposition",
+            "anchor_date": "2025-01-16",
+            "approximate": false
+          }
+        },
+        "sidereal": {
+          "label": "0.9/1.9 years",
+          "unit": "years",
+          "index": 0.9,
+          "total": 1.9,
+          "meta": {
+            "total_days": 686.98,
+            "approximate": true
+          }
+        }
+      },
+      "Jupiter": {
+        "transit": {
+          "label": "158/205 days",
+          "unit": "days",
+          "index": 158,
+          "total": 205,
+          "meta": {
+            "sign": "Cancer",
+            "approximate": true
+          }
+        },
+        "synodic": {
+          "label": "0/399 days",
+          "unit": "days",
+          "index": 0,
+          "total": 399,
+          "meta": {
+            "anchor": "opposition",
+            "anchor_date": "2025-11-14",
+            "approximate": false
+          }
+        },
+        "sidereal": {
+          "label": "0.9/11.9 years",
+          "unit": "years",
+          "index": 0.9,
+          "total": 11.9,
+          "meta": {
+            "total_days": 4332.589,
+            "approximate": true
+          }
+        }
+      },
+      "Saturn": {
+        "transit": {
+          "label": "74/121 days",
+          "unit": "days",
+          "index": 74,
+          "total": 121,
+          "meta": {
+            "sign": "Pisces",
+            "approximate": true
+          }
+        },
+        "synodic": {
+          "label": "54/378 days",
+          "unit": "days",
+          "index": 54,
+          "total": 378,
+          "meta": {
+            "anchor": "opposition",
+            "anchor_date": "2025-09-21",
+            "approximate": false
+          }
+        },
+        "sidereal": {
+          "label": "0.9/29.5 years",
+          "unit": "years",
+          "index": 0.9,
+          "total": 29.5,
+          "meta": {
+            "total_days": 10759.22,
+            "approximate": true
+          }
+        }
+      },
+      "Uranus": {
+        "transit": {
+          "label": "6/53 days",
+          "unit": "days",
+          "index": 6,
+          "total": 53,
+          "meta": {
+            "sign": "Taurus",
+            "approximate": true
+          }
+        },
+        "synodic": {
+          "label": "0/370 days",
+          "unit": "days",
+          "index": 0,
+          "total": 370,
+          "meta": {
+            "anchor": "opposition",
+            "anchor_date": "2025-11-14",
+            "approximate": false
+          }
+        },
+        "sidereal": {
+          "label": "0.9/84.0 years",
+          "unit": "years",
+          "index": 0.9,
+          "total": 84.0,
+          "meta": {
+            "total_days": 30685.4,
+            "approximate": true
+          }
+        }
+      },
+      "Neptune": {
+        "transit": {
+          "label": "23/70 days",
+          "unit": "days",
+          "index": 23,
+          "total": 70,
+          "meta": {
+            "sign": "Pisces",
+            "approximate": true
+          }
+        },
+        "synodic": {
+          "label": "51/367 days",
+          "unit": "days",
+          "index": 51,
+          "total": 367,
+          "meta": {
+            "anchor": "opposition",
+            "anchor_date": "2025-09-24",
+            "approximate": false
+          }
+        },
+        "sidereal": {
+          "label": "0.9/164.8 years",
+          "unit": "years",
+          "index": 0.9,
+          "total": 164.8,
+          "meta": {
+            "total_days": 60189.0,
+            "approximate": true
+          }
+        }
+      },
+      "Pluto": {
+        "transit": {
+          "label": "318/365 days",
+          "unit": "days",
+          "index": 318,
+          "total": 365,
+          "meta": {
+            "sign": "Aquarius",
+            "approximate": true
+          }
+        },
+        "synodic": {
+          "label": "112/367 days",
+          "unit": "days",
+          "index": 112,
+          "total": 367,
+          "meta": {
+            "anchor": "opposition",
+            "anchor_date": "2025-07-25",
+            "approximate": false
+          }
+        },
+        "sidereal": {
+          "label": "0.9/247.9 years",
+          "unit": "years",
+          "index": 0.9,
+          "total": 247.9,
+          "meta": {
+            "total_days": 90560.0,
+            "approximate": true
+          }
+        }
+      }
+    },
+    "2025-11-15": {
+      "Sun": {
+        "transit": {
+          "label": "23/30 days",
+          "unit": "days",
+          "index": 23,
+          "total": 30,
+          "meta": {
+            "sign": "Scorpio",
+            "approximate": false
+          }
+        },
+        "synodic": {
+          "label": null,
+          "unit": "days",
+          "index": 0,
+          "total": 0,
+          "meta": {
+            "approximate": true
+          }
+        },
+        "sidereal": {
+          "label": "0.9/1.0 years",
+          "unit": "years",
+          "index": 0.9,
+          "total": 1.0,
+          "meta": {
+            "total_days": 365.256,
+            "approximate": true
+          }
+        }
+      },
+      "Moon": {
+        "transit": {
+          "label": "3/3 days",
+          "unit": "days",
+          "index": 3,
+          "total": 3,
+          "meta": {
+            "sign": "Virgo",
+            "approximate": false
+          }
+        },
+        "synodic": {
+          "label": "0/30 days",
+          "unit": "days",
+          "index": 0,
+          "total": 30,
+          "meta": {
+            "anchor": "conjunction",
+            "anchor_date": "2025-11-15",
+            "approximate": false
+          }
+        },
+        "sidereal": {
+          "label": "21/27 days",
+          "unit": "days",
+          "index": 21,
+          "total": 27,
+          "meta": {
+            "total_days": 27.32166,
+            "approximate": true
+          }
+        }
+      },
+      "Mercury": {
+        "transit": {
+          "label": "17/21 days",
+          "unit": "days",
+          "index": 17,
+          "total": 21,
+          "meta": {
+            "sign": "Sagittarius",
+            "approximate": false
+          }
+        },
+        "synodic": {
+          "label": "0/116 days",
+          "unit": "days",
+          "index": 0,
+          "total": 116,
+          "meta": {
+            "anchor": "conjunction",
+            "anchor_date": "2025-11-15",
+            "approximate": false
+          }
+        },
+        "sidereal": {
+          "label": "54/88 days",
+          "unit": "days",
+          "index": 54,
+          "total": 88,
+          "meta": {
+            "total_days": 87.969,
+            "approximate": true
+          }
+        }
+      },
+      "Venus": {
+        "transit": {
+          "label": "9/24 days",
+          "unit": "days",
+          "index": 9,
+          "total": 24,
+          "meta": {
+            "sign": "Scorpio",
+            "approximate": false
+          }
+        },
+        "synodic": {
+          "label": "0/584 days",
+          "unit": "days",
+          "index": 0,
+          "total": 584,
+          "meta": {
+            "anchor": "conjunction",
+            "anchor_date": "2025-11-15",
+            "approximate": false
+          }
+        },
+        "sidereal": {
+          "label": "93/225 days",
+          "unit": "days",
+          "index": 93,
+          "total": 225,
+          "meta": {
+            "total_days": 224.701,
+            "approximate": true
+          }
+        }
+      },
+      "Mars": {
+        "transit": {
+          "label": "11/41 days",
+          "unit": "days",
+          "index": 11,
+          "total": 41,
+          "meta": {
+            "sign": "Sagittarius",
+            "approximate": false
+          }
+        },
+        "synodic": {
+          "label": "303/780 days",
+          "unit": "days",
+          "index": 303,
+          "total": 780,
+          "meta": {
+            "anchor": "opposition",
+            "anchor_date": "2025-01-16",
+            "approximate": false
+          }
+        },
+        "sidereal": {
+          "label": "0.9/1.9 years",
+          "unit": "years",
+          "index": 0.9,
+          "total": 1.9,
+          "meta": {
+            "total_days": 686.98,
+            "approximate": true
+          }
+        }
+      },
+      "Jupiter": {
+        "transit": {
+          "label": "159/205 days",
+          "unit": "days",
+          "index": 159,
+          "total": 205,
+          "meta": {
+            "sign": "Cancer",
+            "approximate": true
+          }
+        },
+        "synodic": {
+          "label": "0/399 days",
+          "unit": "days",
+          "index": 0,
+          "total": 399,
+          "meta": {
+            "anchor": "opposition",
+            "anchor_date": "2025-11-15",
+            "approximate": false
+          }
+        },
+        "sidereal": {
+          "label": "0.9/11.9 years",
+          "unit": "years",
+          "index": 0.9,
+          "total": 11.9,
+          "meta": {
+            "total_days": 4332.589,
+            "approximate": true
+          }
+        }
+      },
+      "Saturn": {
+        "transit": {
+          "label": "75/121 days",
+          "unit": "days",
+          "index": 75,
+          "total": 121,
+          "meta": {
+            "sign": "Pisces",
+            "approximate": true
+          }
+        },
+        "synodic": {
+          "label": "55/378 days",
+          "unit": "days",
+          "index": 55,
+          "total": 378,
+          "meta": {
+            "anchor": "opposition",
+            "anchor_date": "2025-09-21",
+            "approximate": false
+          }
+        },
+        "sidereal": {
+          "label": "0.9/29.5 years",
+          "unit": "years",
+          "index": 0.9,
+          "total": 29.5,
+          "meta": {
+            "total_days": 10759.22,
+            "approximate": true
+          }
+        }
+      },
+      "Uranus": {
+        "transit": {
+          "label": "7/53 days",
+          "unit": "days",
+          "index": 7,
+          "total": 53,
+          "meta": {
+            "sign": "Taurus",
+            "approximate": true
+          }
+        },
+        "synodic": {
+          "label": "0/370 days",
+          "unit": "days",
+          "index": 0,
+          "total": 370,
+          "meta": {
+            "anchor": "opposition",
+            "anchor_date": "2025-11-15",
+            "approximate": false
+          }
+        },
+        "sidereal": {
+          "label": "0.9/84.0 years",
+          "unit": "years",
+          "index": 0.9,
+          "total": 84.0,
+          "meta": {
+            "total_days": 30685.4,
+            "approximate": true
+          }
+        }
+      },
+      "Neptune": {
+        "transit": {
+          "label": "24/70 days",
+          "unit": "days",
+          "index": 24,
+          "total": 70,
+          "meta": {
+            "sign": "Pisces",
+            "approximate": true
+          }
+        },
+        "synodic": {
+          "label": "52/367 days",
+          "unit": "days",
+          "index": 52,
+          "total": 367,
+          "meta": {
+            "anchor": "opposition",
+            "anchor_date": "2025-09-24",
+            "approximate": false
+          }
+        },
+        "sidereal": {
+          "label": "0.9/164.8 years",
+          "unit": "years",
+          "index": 0.9,
+          "total": 164.8,
+          "meta": {
+            "total_days": 60189.0,
+            "approximate": true
+          }
+        }
+      },
+      "Pluto": {
+        "transit": {
+          "label": "319/365 days",
+          "unit": "days",
+          "index": 319,
+          "total": 365,
+          "meta": {
+            "sign": "Aquarius",
+            "approximate": true
+          }
+        },
+        "synodic": {
+          "label": "113/367 days",
+          "unit": "days",
+          "index": 113,
+          "total": 367,
+          "meta": {
+            "anchor": "opposition",
+            "anchor_date": "2025-07-25",
+            "approximate": false
+          }
+        },
+        "sidereal": {
+          "label": "0.9/247.9 years",
+          "unit": "years",
+          "index": 0.9,
+          "total": 247.9,
+          "meta": {
+            "total_days": 90560.0,
+            "approximate": true
+          }
+        }
+      }
+    },
+    "2025-11-16": {
+      "Sun": {
+        "transit": {
+          "label": "24/30 days",
+          "unit": "days",
+          "index": 24,
+          "total": 30,
+          "meta": {
+            "sign": "Scorpio",
+            "approximate": false
+          }
+        },
+        "synodic": {
+          "label": null,
+          "unit": "days",
+          "index": 0,
+          "total": 0,
+          "meta": {
+            "approximate": true
+          }
+        },
+        "sidereal": {
+          "label": "0.9/1.0 years",
+          "unit": "years",
+          "index": 0.9,
+          "total": 1.0,
+          "meta": {
+            "total_days": 365.256,
+            "approximate": true
+          }
+        }
+      },
+      "Moon": {
+        "transit": {
+          "label": "1/2 days",
+          "unit": "days",
+          "index": 1,
+          "total": 2,
+          "meta": {
+            "sign": "Libra",
+            "approximate": false
+          }
+        },
+        "synodic": {
+          "label": "0/30 days",
+          "unit": "days",
+          "index": 0,
+          "total": 30,
+          "meta": {
+            "anchor": "conjunction",
+            "anchor_date": "2025-11-16",
+            "approximate": false
+          }
+        },
+        "sidereal": {
+          "label": "22/27 days",
+          "unit": "days",
+          "index": 22,
+          "total": 27,
+          "meta": {
+            "total_days": 27.32166,
+            "approximate": true
+          }
+        }
+      },
+      "Mercury": {
+        "transit": {
+          "label": "18/21 days",
+          "unit": "days",
+          "index": 18,
+          "total": 21,
+          "meta": {
+            "sign": "Sagittarius",
+            "approximate": false
+          }
+        },
+        "synodic": {
+          "label": "0/116 days",
+          "unit": "days",
+          "index": 0,
+          "total": 116,
+          "meta": {
+            "anchor": "conjunction",
+            "anchor_date": "2025-11-16",
+            "approximate": false
+          }
+        },
+        "sidereal": {
+          "label": "55/88 days",
+          "unit": "days",
+          "index": 55,
+          "total": 88,
+          "meta": {
+            "total_days": 87.969,
+            "approximate": true
+          }
+        }
+      },
+      "Venus": {
+        "transit": {
+          "label": "10/24 days",
+          "unit": "days",
+          "index": 10,
+          "total": 24,
+          "meta": {
+            "sign": "Scorpio",
+            "approximate": false
+          }
+        },
+        "synodic": {
+          "label": "0/584 days",
+          "unit": "days",
+          "index": 0,
+          "total": 584,
+          "meta": {
+            "anchor": "conjunction",
+            "anchor_date": "2025-11-16",
+            "approximate": false
+          }
+        },
+        "sidereal": {
+          "label": "94/225 days",
+          "unit": "days",
+          "index": 94,
+          "total": 225,
+          "meta": {
+            "total_days": 224.701,
+            "approximate": true
+          }
+        }
+      },
+      "Mars": {
+        "transit": {
+          "label": "12/41 days",
+          "unit": "days",
+          "index": 12,
+          "total": 41,
+          "meta": {
+            "sign": "Sagittarius",
+            "approximate": false
+          }
+        },
+        "synodic": {
+          "label": "304/780 days",
+          "unit": "days",
+          "index": 304,
+          "total": 780,
+          "meta": {
+            "anchor": "opposition",
+            "anchor_date": "2025-01-16",
+            "approximate": false
+          }
+        },
+        "sidereal": {
+          "label": "0.9/1.9 years",
+          "unit": "years",
+          "index": 0.9,
+          "total": 1.9,
+          "meta": {
+            "total_days": 686.98,
+            "approximate": true
+          }
+        }
+      },
+      "Jupiter": {
+        "transit": {
+          "label": "160/205 days",
+          "unit": "days",
+          "index": 160,
+          "total": 205,
+          "meta": {
+            "sign": "Cancer",
+            "approximate": true
+          }
+        },
+        "synodic": {
+          "label": "0/399 days",
+          "unit": "days",
+          "index": 0,
+          "total": 399,
+          "meta": {
+            "anchor": "opposition",
+            "anchor_date": "2025-11-16",
+            "approximate": false
+          }
+        },
+        "sidereal": {
+          "label": "0.9/11.9 years",
+          "unit": "years",
+          "index": 0.9,
+          "total": 11.9,
+          "meta": {
+            "total_days": 4332.589,
+            "approximate": true
+          }
+        }
+      },
+      "Saturn": {
+        "transit": {
+          "label": "76/121 days",
+          "unit": "days",
+          "index": 76,
+          "total": 121,
+          "meta": {
+            "sign": "Pisces",
+            "approximate": true
+          }
+        },
+        "synodic": {
+          "label": "56/378 days",
+          "unit": "days",
+          "index": 56,
+          "total": 378,
+          "meta": {
+            "anchor": "opposition",
+            "anchor_date": "2025-09-21",
+            "approximate": false
+          }
+        },
+        "sidereal": {
+          "label": "0.9/29.5 years",
+          "unit": "years",
+          "index": 0.9,
+          "total": 29.5,
+          "meta": {
+            "total_days": 10759.22,
+            "approximate": true
+          }
+        }
+      },
+      "Uranus": {
+        "transit": {
+          "label": "8/53 days",
+          "unit": "days",
+          "index": 8,
+          "total": 53,
+          "meta": {
+            "sign": "Taurus",
+            "approximate": true
+          }
+        },
+        "synodic": {
+          "label": "0/370 days",
+          "unit": "days",
+          "index": 0,
+          "total": 370,
+          "meta": {
+            "anchor": "opposition",
+            "anchor_date": "2025-11-16",
+            "approximate": false
+          }
+        },
+        "sidereal": {
+          "label": "0.9/84.0 years",
+          "unit": "years",
+          "index": 0.9,
+          "total": 84.0,
+          "meta": {
+            "total_days": 30685.4,
+            "approximate": true
+          }
+        }
+      },
+      "Neptune": {
+        "transit": {
+          "label": "25/70 days",
+          "unit": "days",
+          "index": 25,
+          "total": 70,
+          "meta": {
+            "sign": "Pisces",
+            "approximate": true
+          }
+        },
+        "synodic": {
+          "label": "53/367 days",
+          "unit": "days",
+          "index": 53,
+          "total": 367,
+          "meta": {
+            "anchor": "opposition",
+            "anchor_date": "2025-09-24",
+            "approximate": false
+          }
+        },
+        "sidereal": {
+          "label": "0.9/164.8 years",
+          "unit": "years",
+          "index": 0.9,
+          "total": 164.8,
+          "meta": {
+            "total_days": 60189.0,
+            "approximate": true
+          }
+        }
+      },
+      "Pluto": {
+        "transit": {
+          "label": "320/365 days",
+          "unit": "days",
+          "index": 320,
+          "total": 365,
+          "meta": {
+            "sign": "Aquarius",
+            "approximate": true
+          }
+        },
+        "synodic": {
+          "label": "114/367 days",
+          "unit": "days",
+          "index": 114,
           "total": 367,
           "meta": {
             "anchor": "opposition",
@@ -2316,39 +2316,21 @@
   "crossing_events": [
     {
       "planet": "Moon",
-      "from_sign": "Aries",
-      "to_sign": "Taurus",
-      "timestamp_utc": "2025-11-04T16:13:13.825799Z"
-    },
-    {
-      "planet": "Mars",
-      "from_sign": "Scorpio",
-      "to_sign": "Sagittarius",
-      "timestamp_utc": "2025-11-04T13:23:43.255814Z"
+      "from_sign": "Cancer",
+      "to_sign": "Leo",
+      "timestamp_utc": "2025-11-10T17:39:13.846154Z"
     },
     {
       "planet": "Moon",
-      "from_sign": "Taurus",
-      "to_sign": "Gemini",
-      "timestamp_utc": "2025-11-06T15:22:21.176471Z"
-    },
-    {
-      "planet": "Venus",
-      "from_sign": "Libra",
-      "to_sign": "Scorpio",
-      "timestamp_utc": "2025-11-06T22:43:12Z"
+      "from_sign": "Leo",
+      "to_sign": "Virgo",
+      "timestamp_utc": "2025-11-12T23:52:36.354300Z"
     },
     {
       "planet": "Moon",
-      "from_sign": "Gemini",
-      "to_sign": "Cancer",
-      "timestamp_utc": "2025-11-08T15:11:21.081081Z"
-    },
-    {
-      "planet": "Uranus",
-      "from_sign": "Gemini",
-      "to_sign": "Taurus",
-      "timestamp_utc": null
+      "from_sign": "Virgo",
+      "to_sign": "Libra",
+      "timestamp_utc": "2025-11-15T09:46:40Z"
     }
   ],
   "orbital_cycles": {
